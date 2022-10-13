@@ -1,0 +1,15 @@
+{
+"companyName": "Betamaximus-128",
+"productName": "FriendZone",
+"productVersion": "1.0",
+"dataUrl": "79f42e4422952c29330789a2e8ddeaa8.unityweb",
+"wasmCodeUrl": "6675856acc8b09fe37fc9494c3357130.unityweb",
+"wasmFrameworkUrl": "6f906dce09aa1c0dd3a80b6e0f30b150.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
